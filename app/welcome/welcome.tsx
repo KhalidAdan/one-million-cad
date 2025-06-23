@@ -4,7 +4,7 @@ export function Welcome() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-white">
       <h1 className="text-4xl md:text-6xl lg:text-8xl font-mono text-black">
-        $1 MILLION
+        $1 MILLION{" "}
         <Link
           to="https://xe.com/currencyconverter/convert/?Amount=1000000&From=CAD&To=USD"
           target="_blank"
