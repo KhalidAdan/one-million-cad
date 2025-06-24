@@ -1,3 +1,3 @@
-# 1 MILLION CAD
+# 1 MILLION DOLLARS
 
 For broadcast.now!
