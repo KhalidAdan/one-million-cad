@@ -3,7 +3,7 @@ import type { Route } from "./+types/home";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "1 MILLION CAD" },
+    { title: "1 MILLION DOLLARS" },
     { name: "description", content: "What a domain! buy it now!" },
   ];
 }
